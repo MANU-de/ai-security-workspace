@@ -1,0 +1,6 @@
+[submodule "projects/llm-guard"]
+	path = projects/llm-guard
+	url = https://github.com/MANU-de/LLM-Guard.git
+[submodule "projects/llm-leak-detector"]
+	path = projects/llm-leak-detector
+	url = https://github.com/MANU-de/llm-leak-detector.git
