@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.env
+
+# AI & Models (Large files)
+models/
+data/
+*.weights
+*.bin
+*.pt
+*.safetensors
+*.onnx
+
+# Security & Credentials
+secrets/
+*.pem
+*.key
+*.token
+config.json
+
+# System & IDE
+.DS_Store
+.vscode/
+.idea/
